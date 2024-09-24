@@ -3,6 +3,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, InputGroup, FormControl, Button, Row, Card } from 'react-bootstrap';
 import { useState, useEffect } from 'react';
+import Recommendation from './Recommendation';
 
 const CLIENT_ID = 'ff67089947b9415c9f1b328d292e730a';
 const CLIENT_SECRET = '613575eb46604b058cc911812115ebdb';
