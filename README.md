@@ -1,5 +1,5 @@
-# Music Recommendation AI with Spotofy
+# Music Recommendation AI with Spotify
 
 This project is a Music Recommendation Service.
 
-AI(Tensorflow.js), API(Spotify API)
+Using AI(Tensorflow.js), API(Spotify API)
