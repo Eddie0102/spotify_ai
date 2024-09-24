@@ -1,4 +1,4 @@
-# Music Recommendation AI with Spotify
+# AI Music Recommendation Service with Spotify API
 
 This project is a Music Recommendation Service.
 
